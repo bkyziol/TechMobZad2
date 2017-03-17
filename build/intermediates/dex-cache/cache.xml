@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\instagram\Zadanie2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2abde2ad8e9336de0c6c0d05b517d71b9f12450e">
+        <dex dex="D:\instagram\Zadanie2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_497c40e2e281bb52736c101d08532034209adbe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\instagram\Zadanie2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_8123881fa1969e0b48112b71a5d8aa0c5129981d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\instagram\Zadanie2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_65be15be8df92acd0d5e248ec2aea8cc7f6b37ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\instagram\Zadanie2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_4f073001dd7c696de0442851a81ff6eb29a63ec2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\instagram\Zadanie2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_aab1e8080a763ba3e0266a5abf348ecafc841033\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\instagram\Zadanie2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_a71a379a91ea3a78d784273f71650bc5846a74d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\instagram\Zadanie2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_284d9bc486e33ba00d44521c3df897b94c7b82ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\instagram\Zadanie2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_b13a0ff1d769af8ae6afac0432682a4cdc41f654\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\instagram\Zadanie2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_02aa01b88320fa4c44d2bfb1f1855daf5cae0bf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\instagram\Zadanie2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_184774518f7f7062af95dcefc62bad4a5d8391be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bartek 2\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\instagram\Zadanie2\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_68759e08eb4a86e223e1b676c4b7faaa311bfc56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\instagram\Zadanie2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0ed08245a2114e1a729a319be284ca95590b7f11">
+        <dex dex="D:\instagram\Zadanie2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b9452c2dd95923d99fd7cc1c4fedfbed69a9017c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bartek 2\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\instagram\Zadanie2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_5e1922187fc082b2dff009f3e7e3ead520e696bf\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Fri Mar 17 23:08:05 CET 2017
+base.0=D\:\\instagram\\Zadanie2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_497c40e2e281bb52736c101d08532034209adbe9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\instagram\\Zadanie2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b9452c2dd95923d99fd7cc1c4fedfbed69a9017c\\classes.dex
+base.1=D\:\\instagram\\Zadanie2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b9452c2dd95923d99fd7cc1c4fedfbed69a9017c
+file.0=D\:\\instagram\\Zadanie2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_497c40e2e281bb52736c101d08532034209adbe9\\classes.dex

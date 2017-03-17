@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:3:1-40:12
+	package
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:6:5-7:35
+	android:required
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:9:22-64
+application
+ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:11:5-38:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:14:9-53
+	android:supportsRtl
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:16:9-59
+activity#com.example.bartek2.zadanie2.MainActivity
+ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:screenOrientation
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:18:13-50
+	android:name
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:23:27-74
+provider#android.support.v4.content.FileProvider
+ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:27:9-36:20
+	android:authorities
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:29:13-67
+	android:grantUriPermissions
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:31:13-47
+	android:exported
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:28:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:32:13-35:25
+	android:resource
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:34:17-51
+	android:name
+		ADDED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml:33:17-67
+uses-sdk
+INJECTED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] D:\instagram\Zadanie2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\instagram\Zadanie2\app\src\main\AndroidManifest.xml
